@@ -6,8 +6,8 @@
 
  **Udagram** is an Image Filtering application, allows users to register and log into a web client, post photos, and process photos using an image filtering service. It has two components:
 
-    Frontend - Angular web application 
-    Backend - Node-Typescript application
+ 1. Frontend - Angular web application 
+ 2. Backend - Node-Typescript application
 
 
 ## Project Objective
