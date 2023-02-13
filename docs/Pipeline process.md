@@ -1,6 +1,6 @@
 ## Udagram Pipeline Process
 
-![Pipeline Process](Pipeline process.png)
+![Pipeline Process](Pipeline.png)
 
 ### Continuous Integration
 
