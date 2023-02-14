@@ -1,6 +1,6 @@
 branch-defaults:
   default:
-    environment: null
+    environment: udagram-api-devv
     group_suffix: null
 deploy:
   artifact: www/Archive.zip
@@ -8,8 +8,11 @@ environment-defaults:
   udagram-api-dev:
     branch: null
     repository: null
+  udagram-api-devv:
+    branch: null
+    repository: null
 global:
-  application_name: udagram-api-devv
+  application_name: udagram-api
   branch: null
   default_ec2_keyname: null
   default_platform: Node.js 16
